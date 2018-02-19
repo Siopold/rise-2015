@@ -1,8 +1,8 @@
 # People, Places, Time, Money: Listing *Robinson Crusoe*
 
-Next week we will see that in *The Rise of the Novel*, Ian Watt argues that, like the jury in a court of law, the readers of a novel expect
+(This is an assignment by Rachel Buurma, taken out of context and modified slightly with technical updates by Erik Simpson and Christina Brewer for use in English 295, [Lighting the Page: Digital Methods for Literary Studies](http://www.math.grinnell.edu/~simpsone/Connections/Digital/Lighting/index.html), at Grinnell College.)
 
->to know 'all the particulars' of a given case - the _time_ and _place_ of the occurrence; both must be satisfied as to the _identities_ of the parties concerned, and will refuse to accept evidence about anyone called Sir Toby Belch or Mr. Badman -- still less about a Chloe who has no surname and is 'common as the air'...". (31, emphasis added)
+Next week we will see that in *The Rise of the Novel*, Ian Watt argues that, like the jury in a court of law, the readers of a novel expect> to know 'all the particulars' of a given case - the _time_ and _place_ of the occurrence; both must be satisfied as to the _identities_ of the parties concerned, and will refuse to accept evidence about anyone called Sir Toby Belch or Mr. Badman -- still less about a Chloe who has no surname and is 'common as the air'...". (31, emphasis added)
 
 Though we may quarrel with many of Watt's implicit and explicit claims (including the confidence with which he refers to a thing called a "novel"),  our reading of *Robinson Crusoe* so far has likely convinced us that specific times, places, and names - as well as amounts of money and dates -- seem important, though we will differ as to our interpretation of precisely *how* they are important.
 
