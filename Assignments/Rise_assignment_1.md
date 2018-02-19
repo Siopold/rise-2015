@@ -30,7 +30,7 @@ Not getting the expected results? Scroll down to "Troubleshooting."
 
 ### Mac instructions
 
-1. Download and unzip the [Stanford Named Entity Recognizer](http://nlp.stanford.edu/software/CRF-NER.shtml#Download), then open the file named "ner-gui.command".
+1. Download and unzip the [Stanford Named Entity Recognizer](http://nlp.stanford.edu/software/CRF-NER.shtml#Download) by clicking the download link on the attached page. You will need to open a ZIP file (by clicking on it or, if necessary, right-clicking and chooseing "Extract All"), which in turn creates a folder. Inside that folder, open the file named "ner-gui.command".
    + You may get the following error message: "'ner-gui.command can't be opened because it is from an unidentified developer." You can get around this by control-clicking on the file and clicking "Open."
 2. The NER program should open in two windows: in your Terminal and in a Java application window. In the second window, erase the pre-loaded text and click File -> Open File in the menu to open the clean Project Gutenberg version of *Crusoe* you will find in both the assignment folder and the repository. (We will talk more about how we create and find usable machine-readable text files of our novels in future assignments, and you will learn to create them yourself.)
 3. In the NER menu bar, click "Classifier" and choose "Load CRF from file." Navigate to where you have installed the NER and find the "Classifiers" folder. Select the file with 7 entities that ends in gz (full name "english.muc.7class.distsim.crf.ser.gz"). The seven entities (or categories the NER reads for) will appear on the right side of the window.
